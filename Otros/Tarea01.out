@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{chapter.1}{Historia de la Computaci\363n.}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Inicios de la programaci\363n.}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Precedentes de los primeros computadores.}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Primeras computadoras anal\363gicas.}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Arquitecturas de computadoras.}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Arquitectura de Von Neumann.}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.1.1}{Unidad Aritm\351tico-L\363gica.}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.2}{Unidad de Control.}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.3}{Unidad de Memoria.}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.4}{Dispositivos de entrada y salida.}{section.2.1}% 10
+\BOOKMARK [1][-]{section.2.2}{Arquitectura de multiproceso}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Arquitectura segmentada.}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Algoritmo}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Concepto.}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Complejidad de un algoritmo.}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{Aplicaciones pr\341cticas.}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Paradigma orientado a objetos.}{}% 17
+\BOOKMARK [1][-]{section.4.1}{Ventajas.}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Desventajas.}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{Lenguajes que usan el paradigma orientado a objetos}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{Conceptos b\341sicos.}{}% 21
+\BOOKMARK [1][-]{section.5.1}{Ciclos.}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.2}{Condicionales.}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.3}{Tipos.}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.4}{Estado.}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.5}{Memoria.}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.6}{Librer\355a.}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.7}{Documentaci\363n de programas.}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.8}{Compilar.}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.9}{Interpretar.}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.10}{M\341quina virtual.}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.11}{Palabras reservadas.}{chapter.5}% 32
